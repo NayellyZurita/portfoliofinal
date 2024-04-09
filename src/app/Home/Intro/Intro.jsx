@@ -1,6 +1,6 @@
 import React from "react";
 import Image from "next/image";
-import profilePic from "./profile.jpg";
+import profile from "./profile.jpg";
 
 export const metadata = {
   title: "Portfolio - Home",
@@ -10,7 +10,7 @@ export const metadata = {
 export default function Intro() {
   return (
     <div className="container mx-auto p-5 ">
-      <Image src={profilePic} alt="Profile" className=" p-5 rounded-full w-64 h-64 md:w-50 md:h-50" />
+      <Image src={profile} alt="Profile" className=" p-5 rounded-full w-64 h-64 md:w-50 md:h-50" />
       <h1 className="text-2xl md:text-4xl text-left font-semibold my-4">Software engineer, father, and believer</h1>
       <p className="text-base md:text-lg text-left">
         To be, or not of? Thus contumely, the whips and their to, tis a consummation is sicklied o er with the question:
