@@ -80,7 +80,7 @@ export default function RightSide() {
             className="stroke-current"
           />
         </svg>
-        <a href="mailto:your_email@example.com">jane@gmail.com</a>
+        <a href="mailto:your_email@example.com">nayelly.zurita@gmail.com</a>
       </div>
 
       </>

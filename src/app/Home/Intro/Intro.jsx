@@ -11,13 +11,11 @@ export default function Intro() {
   return (
     <div className="container mx-auto p-5 ">
       <Image src={profile} alt="Profile" className=" p-5 rounded-full w-64 h-64 md:w-50 md:h-50" />
-      <h1 className="text-2xl md:text-4xl text-left font-semibold my-4">Software engineer, father, and believer</h1>
+      <h1 className="text-2xl md:text-4xl text-left font-semibold my-4">Data Science</h1>
       <p className="text-base md:text-lg text-left">
-        To be, or not of? Thus contumely, the whips and their to, tis a consummation is sicklied o er with the question:
-        whether tis a consummation is sicklied oer with and enterprises of office, and by opposing end thus the native
-        hue of action. To be, or not of? Thus contumely, the slings and their currents turn awry, and sweat under a
-        weary life; for who would fardels bear the heart-ache and lose the respect that we know not to be: that the
-        question: whether tis nobler in the insolence of action. To di.
+       As a passionate data science student at Ensign, with a strong foundation in statistical analysis,
+       machine learning, and data visualization, my goal is to transform raw information into meaningful insights.
+      Through practical projects and courses, I have developed my skills in programming languages, Java, SQL, Tableau and various data analysis tools.
       </p>
       <ul className="flex">
         <li><a href="https://www.linkedin.com" target="_blank" rel="noreferrer"className="linkedin inline-block mr-3">
