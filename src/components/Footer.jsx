@@ -6,13 +6,14 @@ const Footer = ({ links }) => {
   const year = new Date().getFullYear();
 
   return (
-    <footer data-testid={"footer"} className="flex flex-row justify-between bg-gray-100 p-6 border-t border-gray-300 dark:bg-black">
-      <ul className="flex flex-row items-center space-x-6">
+    <footer data-testid={"footer"} className= "flex flex-row-full justify-between bg-gray-100 p-6 border-t border-gray-300 dark:bg-black">
+      <ul className="flex flex-row items-center space-x-9 ">
         {links.map((link, index) => (
           <li key={index} data-testid={`footerLink${index}`}>
             <Link href={link.url} className="text-gray-600  dark:text-white hover:text-gray-800 hover:underline">{link.title}</Link>
           </li>
         ))}
+
       </ul>
       <p data-testid="footerContent" className="text-gray-500 dark:text-white text-sm m-0">© {year}</p>
     </footer>

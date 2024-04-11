@@ -1,10 +1,12 @@
 import React from "react";
 import PropTypes from "prop-types";
 import Image from "next/image";
-
+import SQL from "./SQL.png";
 import Js from "./Js.png";
 import Html from "./Html.png";
 import Css from "./Css.png";
+import Python from "./Python.jpg";
+import Tableau from "./Tableau.png";
 
 const SkillsWidget = ({ title, content, skills }) => {
   return (
@@ -73,6 +75,9 @@ const skills = [
   { name: "HTML", proficiency: 60, icon: Html },
   { name: "CSS", proficiency: 50, icon: Css },
   { name: "JavaScript", proficiency: 75, icon: Js },
+  {name : "SQL", proficiency: 70, icon: SQL},
+  {name : "Python", proficiency: 70, icon: Python},
+  {name : "Tableau", proficiency: 70, icon: Tableau},
 ];
 
 function App() {
@@ -80,7 +85,7 @@ function App() {
     <>
       <SkillsWidget
         title={"Skills"}
-        content={"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut et massa mi."}
+        content={"I have the following skills."}
         skills={skills}
       />
     </>

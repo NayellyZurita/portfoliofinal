@@ -11,13 +11,13 @@ const WorkWidget = ({ title, content, experiences }) => {
   return (
     <div
       data-testid="workWidget"
-      className="font-sans flex-grow max-w-screen-md  p-5 border border-gray-300 rounded-lg shadow-md"
+      className="font-sans  p-6 border border-gray-300 rounded-lg shadow-md"
     >
-      <h2 data-testid="workWidgetTitle" className="flex text-xl font-bold items-center ">
+      <h2 data-testid="workWidgetTitle" className="font-semibold item-center flex">
         <svg
-          width="22"
-          height="22"
-          viewBox="0 0 22 22"
+          width="24"
+          height="24"
+          viewBox="0 0 24 24"
           fill="none"
           xmlns="http://www.w3.org/2000/svg"
           class="{{IsDarkMode ? 'stroke-white' : 'stroke-gray-800'}}"
@@ -83,35 +83,21 @@ const App = () => {
       <div className="max-w-screen-md">
         <WorkWidget
           title={"Work"}
-          content={"loren vrjngsllsnrk"}
+          content={"I have worked at the following companies."}
           experiences={[
             {
               logo: Slack,
               organization: "Slack",
-              jobTitle: "SOFTWARE ENGINEER",
+              jobTitle: "Data Science Intern",
               startYear: 2016,
               endYear: null,
             },
             {
               logo: Spotify,
               organization: "Spotify",
-              jobTitle: "SOFTWARE ENGINEER",
-              startYear: 2014,
-              endYear: 2015,
-            },
-            {
-              logo: Microsoft,
-              organization: "Microsoft",
-              jobTitle: "SOFTWARE ENGINEER",
-              startYear: 2012,
-              endYear: 2013,
-            },
-            {
-              logo: Audible,
-              organization: "Audible",
-              jobTitle: "SOFTWARE ENGINEER",
-              startYear: 2010,
-              endYear: 2011,
+              jobTitle: "Data Analyst",
+              startYear: 2023,
+              endYear: 2024,
             },
           ]}
         />

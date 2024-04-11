@@ -37,7 +37,7 @@ const SignupWidget = ({ title, content, simulateNetworkRequestTime }) => {
   return (
     <form
       data-testid={"signupWidget"}
-      className={"font-sans signup-widget p-6 border border-gray-300 rounded-lg shadow-md "}
+      className={"font-sans p-6 border border-gray-300 rounded-lg shadow-md "}
       onSubmit={handleSubmit}
       autoComplete={"false"}
     >
@@ -105,8 +105,7 @@ function App() {
   return (
     <>
       <SignupWidget
-        title={"Stay up to date"}
-        content={"Get notified when I publish something new, and unsubscribe at any time."}
+        title={"Contact me"}
       />
     </>
   );

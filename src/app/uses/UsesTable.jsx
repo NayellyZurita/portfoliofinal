@@ -5,29 +5,9 @@ const items = [
     groupName: 'Workstation',
     items: [
       {
-        title: 'Item Name',
+        title: 'Laptop: MacBook Pro',
         description:
-          'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut et massa mi. Aliquam in hendrerit urna. Pellentesque sit amet sapien fringilla, mattis ligula consectetur, ultrices mauris. Maecenas vitae mattis tellus. Nullam quis imperdiet augue. Vestibulum auctor ornare leo, non suscipit magna interdum eu.',
-      },
-      {
-        title: 'Item Name',
-        description:
-          'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut et massa mi. Aliquam in hendrerit urna. Pellentesque sit amet sapien fringilla, mattis ligula consectetur, ultrices mauris. Maecenas vitae mattis tellus. Nullam quis imperdiet augue. Vestibulum auctor ornare leo, non suscipit magna interdum eu.',
-      },
-      {
-        title: 'Item Name',
-        description:
-          'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut et massa mi. Aliquam in hendrerit urna. Pellentesque sit amet sapien fringilla, mattis ligula consectetur, ultrices mauris. Maecenas vitae mattis tellus. Nullam quis imperdiet augue. Vestibulum auctor ornare leo, non suscipit magna interdum eu.',
-      },
-      {
-        title: 'Item Name',
-        description:
-          'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut et massa mi. Aliquam in hendrerit urna. Pellentesque sit amet sapien fringilla, mattis ligula consectetur, ultrices mauris. Maecenas vitae mattis tellus. Nullam quis imperdiet augue. Vestibulum auctor ornare leo, non suscipit magna interdum eu.',
-      },
-      {
-        title: 'Item Name',
-        description:
-          'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut et massa mi. Aliquam in hendrerit urna. Pellentesque sit amet sapien fringilla, mattis ligula consectetur, ultrices mauris. Maecenas vitae mattis tellus. Nullam quis imperdiet augue. Vestibulum auctor ornare leo, non suscipit magna interdum eu.',
+          'My MacBook Pro is my reliable companion for all things data science. With its powerful performance and sleek design, it provides the perfect platform for running data analyses, coding in Python, and creating impactful visualizations.',
       },
 
     ],
@@ -36,50 +16,40 @@ const items = [
     groupName: 'Development Tools',
     items: [
       {
-        title: 'Item Name',
+        title: 'Python IDE: Jupyter Notebook',
         description:
-          'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut et massa mi. Aliquam in hendrerit urna. Pellentesque sit amet sapien fringilla, mattis ligula consectetur, ultrices mauris. Maecenas vitae mattis tellus. Nullam quis imperdiet augue. Vestibulum auctor ornare leo, non suscipit magna interdum eu.',
+          'Jupyter Notebook is my preferred environment for interactive data analysis and experimentation. Its versatility, ease of use, and support for various programming languages allow me to explore datasets, prototype models, and visualize results in a collaborative and efficient manner.',
       },
       {
-        title: 'Item Name',
+        title: 'SQL (Structured Query Language)',
         description:
-          'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut et massa mi. Aliquam in hendrerit urna. Pellentesque sit amet sapien fringilla, mattis ligula consectetur, ultrices mauris. Maecenas vitae mattis tellus. Nullam quis imperdiet augue. Vestibulum auctor ornare leo, non suscipit magna interdum eu.',
+          'SQL is a domain-specific language used for managing and querying relational databases. It is essential for extracting, manipulating, and aggregating data stored in databases, making it a foundational skill for data scientists working with structured data. Proficiency in SQL allows data scientists to perform data retrieval and manipulation tasks efficiently.',
       },
       {
-        title: 'Item Name',
+        title: 'Java',
         description:
-          'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut et massa mi. Aliquam in hendrerit urna. Pellentesque sit amet sapien fringilla, mattis ligula consectetur, ultrices mauris. Maecenas vitae mattis tellus. Nullam quis imperdiet augue. Vestibulum auctor ornare leo, non suscipit magna interdum eu.',
+          'Java is a widely used programming language with a large ecosystem of libraries and frameworks. While not as commonly used as Python or R in data science, Java is often preferred for building enterprise-level applications and integrating with existing systems in industries like finance, healthcare, and telecommunications.',
       },
     ],
   },
   {
-    groupName: 'Design',
+    groupName: 'Data Visualization',
     items: [
       {
-        title: 'Whimsical',
+        title: 'Tableau ',
         description:
-          'I use Whimsical for all of my wireframing and flowcharting. It’s fast, has great collaboration features, and is highly customizable.',
-      },
-      {
-        title: 'Figma',
-        description:
-          'I use Figma for all of my design work. It’s fast, has great collaboration features, and is highly customizable.',
+          'Tableau Public is my tool of choice for creating impactful visualizations and dashboards from raw data. Its intuitive interface, extensive library of visualization options, and interactive features enable me to communicate insights effectively and engage stakeholders in data-driven decision-making processes.',
       },
 
     ],
   },
   {
-    groupName: 'Productivity',
+    groupName: 'Online Learning Platform',
     items: [
       {
-        title: 'Notion',
+        title: 'LinkedIn Learning',
         description:
-          'I use Notion for all of my note-taking and knowledge management. It’s fast, has great collaboration features, and is highly customizable.',
-      },
-      {
-        title: 'Alfred',
-        description:
-          'I use Alfred for all of my productivity needs. It’s fast, has great features, and is highly customizable.',
+          ' LinkedIn Learning courses provide valuable resources for data science students at all levels, offering practical insights, hands-on experience, and expert guidance to help you succeed in your data science endeavors. Whether you are just starting out or looking to deepen your skills, these courses offer a structured learning path to support your growth and development in the field of data science.',
       },
     ],
   },

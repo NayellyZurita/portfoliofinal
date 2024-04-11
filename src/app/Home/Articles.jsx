@@ -4,25 +4,25 @@ import PropTypes from "prop-types";
 const ArticleCard = () => {
   const articles = [
     {
-      date: "2022-01-01",
-      title: "React Hooks: Understanding useState and useEffect",
+      date: "Apr 05, 2024",
+      title: "Data Democratization: An Ecosystemic Contemplation and Coordination",
       content:
-        "Dive deep into two fundamental React hooks, useState and useEffect, with this article. Learn how to manage state and handle side effects in your React components using these hooks. The article also covers fetching data from APIs and handling asynchronous operations.",
-      link: "https://www.robinwieruch.de/react-hooks-fetch-data",
+        "Like many, the COVID pandemic has affected me personally and professionally in profound ways. Concerned that social isolation might lead to physical or mental atrophy, I paired my solitary walks with episodes of “History of Philosophy Without Any Gaps” hosted by philosopher Peter Adamson. ",
+      link: "https://hdsr.mitpress.mit.edu/pub/o3qm160v/release/4",
     },
     {
-      date: "2022-01-15",
-      title: "React Testing Library: A Complete Guide",
+      date: "Apr 30, 2017",
+      title: "Learning Deep Learning with Keras",
       content:
-        "Learn how to test your React components with React Testing Library. This article covers the fundamentals of testing React components, including rendering components, interacting with them, and making assertions. You will also learn how to test asynchronous operations and handle edge cases.",
-      link: "https://www.robinwieruch.de/react-testing-library",
+        "Whether you want to start learning deep learning for you career, to have a nice adventure (e.g. with detecting huggable objects) or to get insight into machines before they take over[^webcomics], this post is for you! Its goal is not to teach neural networks by itself, but to provide an overview and to point to didactically useful resources.",
+      link: "https://p.migdal.pl/2017/04/30/teaching-deep-learning.html/",
     },
     {
-      date: "2022-02-01",
-      title: "React Router: A Complete Guide",
+      date: "Jan 7, 2020",
+      title: "Instacart Market Basket Analysis",
       content:
-        "Master React Router with this comprehensive guide. Learn how to set up routing in your React applications, including nested routes, route parameters, and programmatic navigation. The article also covers authentication and authorization, as well as protecting routes in your application.",
-      link: "https://www.robinwieruch.de/react-router",
+        "Our recent Instacart Market Basket Analysis competition challenged Kagglers to predict which grocery products an Instacart consumer will purchase again and when. Imagine, for example, having milk ready to be added to your cart right when you run out, or knowing that it’s time to stock up again on your favorite ice cream.",
+      link: "https://medium.com/kaggle-blog/instacart-market-basket-analysis-feda2700cded",
     },
   ];
 
