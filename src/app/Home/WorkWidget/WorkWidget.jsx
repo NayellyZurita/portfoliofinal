@@ -1,11 +1,9 @@
 import React from "react";
 import PropTypes from "prop-types";
 import Image from "next/image";
-
-import Microsoft from "./Microsoft.png";
 import Spotify from "./Spotify.png";
-import Slack from "./Slack.png";
-import Audible from "./Audible.png";
+import Ensign from "./Ensign.jpg";
+
 
 const WorkWidget = ({ title, content, experiences }) => {
   return (
@@ -86,18 +84,11 @@ const App = () => {
           content={"I have worked at the following companies."}
           experiences={[
             {
-              logo: Slack,
-              organization: "Slack",
-              jobTitle: "Data Science Intern",
-              startYear: 2016,
+              logo: Ensign,
+              organization: "Ensign",
+              jobTitle: "Data Science Student",
+              startYear: 2024,
               endYear: null,
-            },
-            {
-              logo: Spotify,
-              organization: "Spotify",
-              jobTitle: "Data Analyst",
-              startYear: 2023,
-              endYear: 2024,
             },
           ]}
         />
