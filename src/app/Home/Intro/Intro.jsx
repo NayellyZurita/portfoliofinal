@@ -33,21 +33,6 @@ export default function Intro() {
             />
           </svg></a>
         </li>
-        <li><a href="https://www.example.com" target="_blank" rel="noreferrer" className="x inline-block mr-3 mt-1">
-          <svg
-            width="20"
-            height="20"
-            viewBox="0 0 24 24"
-            fill="none"
-            xmlns="http://www.w3.org/2000/svg"
-            class="{{ IsDarkMode ? 'fill-white' : 'fill-gray-800' }}"
-          >
-            <path
-              d="M11.9047 8.47089L19.3513 0.00836182H17.5873L11.1187 7.35475L5.956 0.00836182H0L7.80867 11.1185L0 19.9916H1.764L8.59067 12.2319L14.044 19.9916H20M2.40067 1.30886H5.11067L17.586 18.755H14.8753"
-              class="fill-current"
-            />
-          </svg></a>
-        </li>
         <li><a href="https://github.com" target="_blank" rel="noreferrer" className="github inline-block mr-3">
           <svg
             width="24"
