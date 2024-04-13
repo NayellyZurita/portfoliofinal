@@ -1,4 +1,4 @@
 Nayelly Zurita 
 Data Science  Portfolio
-https://portfolio-7txbjf9h3-nayelly-zuritas-projects.vercel.app
+https://portfolio-c06dpq7iu-nayelly-zuritas-projects.vercel.app
 
