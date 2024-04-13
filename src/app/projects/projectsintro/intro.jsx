@@ -17,7 +17,7 @@ export default function IntroProjects() {
         My projects
         </div>
         <div className="text-xlg t text-left py-7 mx-4 md:mx-0">
-        Welcome to my data science portfolio! As a passionate data science student, I have embarked on a journey to explore the vast world of data and its transformative potential. Through a series of hands-on projects, I have honed my skills in data analysis, machine learning, and visualization, with a keen focus on solving real-world problems and driving actionable insights.
+       As a passionate data science student, I have embarked on a journey to explore the vast world of data and its transformative potential. Through a series of hands-on projects, I have honed my skills in data analysis, machine learning, and visualization, with a keen focus on solving real-world problems and driving actionable insights.
         </div>
       </section>
       <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mx-4 md:mx-0">
