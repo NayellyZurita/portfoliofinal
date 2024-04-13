@@ -14,7 +14,7 @@ export default function IntroAbout() {
       </h1>
 
       <p className="w-full h-42 text-base p-4 ">
-      As a Data Scientist, I am enthusiastic about applying theoretical knowledge and hands-on skills in real-world settings through a meaningful internship opportunity. I am in statistical analysis, machine learning techniques, and programming languages like Python, R, and SQL. Passionate about extracting actionable insights from data, I have obtained knowledge demonstrating my ability to tackle complex problems and deliver impactful solutions. With a robust data visualization and storytelling foundation, I excel at communicating findings to technical and non-technical audiences. I seek to develop my skills further and contribute to innovative projects in a dynamic team environment. Let@apos connect and explore how I can bring value to your organization as a Data Science intern.
+      As a Data Scientist, I am enthusiastic about applying theoretical knowledge and hands-on skills in real-world settings through a meaningful internship opportunity. I am in statistical analysis, machine learning techniques, and programming languages like Python, R, and SQL. Passionate about extracting actionable insights from data, I have obtained knowledge demonstrating my ability to tackle complex problems and deliver impactful solutions. With a robust data visualization and storytelling foundation, I excel at communicating findings to technical and non-technical audiences. I seek to develop my skills further and contribute to innovative projects in a dynamic team environment.
       </p>
 
       <p className="w-full h-42 text-base p-4">
