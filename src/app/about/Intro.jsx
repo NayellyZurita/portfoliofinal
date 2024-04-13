@@ -10,7 +10,7 @@ export default function IntroAbout() {
       <div className="hidden w-full h-112 bg-white bg-opacity-90 rounded-full"></div>
 
       <h1 className="w-full h-30 text-4xl tracking-tight font-bold ">
-      Data Science Enthusiast Seeking Internship Opportunities
+      Data Science Enthusiast
       </h1>
 
       <p className="w-full h-42 text-base p-4 ">
