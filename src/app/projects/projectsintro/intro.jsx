@@ -26,7 +26,7 @@ export default function IntroProjects() {
           <div class="py-8">
             <div class="text-lg font-semibold ">Python </div>
             <div class="text-lg  ">
-            Python has been my go-to tool for tackling diverse data science projects, where I've leveraged its versatile libraries such as NumPy, pandas, and scikit-learn to overcome data-related challenges. From data cleaning and preprocessing to building sophisticated predictive models, Python projects have enabled me to showcase my coding prowess and analytical skills. By developing Python-based solutions for tasks ranging from data visualization to machine learning, I've demonstrated my ability to tackle complex data science projects effectively and deliver impactful results.<br></br>
+            Python has been my go-to tool for tackling diverse data science projects, where I have leveraged its versatile libraries such as NumPy, pandas, and scikit-learn to overcome data-related challenges. From data cleaning and preprocessing to building sophisticated predictive models, Python projects have enabled me to showcase my coding prowess and analytical skills. By developing Python-based solutions for tasks ranging from data visualization to machine learning, I have demonstrated my ability to tackle complex data science projects effectively and deliver impactful results.<br></br>
               <a href="https://company.com" class="flex items-center">
                 <svg
                   width="20"
@@ -55,7 +55,7 @@ export default function IntroProjects() {
           <div class="py-8">
             <div class="text-lg font-semibold ">SQL </div>
             <div class="text-lg ">
-            In my data science endeavors, SQL projects have been instrumental in honing my ability to query and analyze data efficiently. Through structured queries, I've extracted valuable insights from databases, manipulated datasets, and aggregated information to address real-world data challenges. From optimizing database performance to solving intricate data problems, engaging in SQL projects has allowed me to showcase my proficiency in handling large datasets and deriving actionable insights that drive business objectives forward.<br></br>
+            In my data science endeavors, SQL projects have been instrumental in honing my ability to query and analyze data efficiently. Through structured queries, I have extracted valuable insights from databases, manipulated datasets, and aggregated information to address real-world data challenges. From optimizing database performance to solving intricate data problems, engaging in SQL projects has allowed me to showcase my proficiency in handling large datasets and deriving actionable insights that drive business objectives forward.<br></br>
               <a href="https://company.com" class="flex items-center">
                 <svg
                   width="20"
@@ -84,7 +84,7 @@ export default function IntroProjects() {
           <div class="py-8">
             <div class="text-lg font-semibold ">Tableau </div>
             <div class="text-lg ">
-            Throughout my data science journey, I've delved into Tableau projects, harnessing its powerful visualization capabilities to transform raw data into actionable insights. With Tableau, I've crafted interactive dashboards and visualizations that not only make complex datasets easily understandable but also drive informed decision-making within organizations. By mastering features like dashboards, filters, and calculated fields, I've demonstrated my ability to translate data into impactful stories that empower stakeholders to take decisive actions.<br></br>
+            Throughout my data science journey, I have delved into Tableau projects, harnessing its powerful visualization capabilities to transform raw data into actionable insights. With Tableau, I have crafted interactive dashboards and visualizations that not only make complex datasets easily understandable but also drive informed decision-making within organizations. By mastering features like dashboards, filters, and calculated fields, I have demonstrated my ability to translate data into impactful stories that empower stakeholders to take decisive actions.<br></br>
               <a href="https://company.com" class="flex items-center">
                 <svg
                   width="24"

@@ -12,7 +12,7 @@ const Uses = () => {
         <div className="container mx-auto px-4 py-8">
           <h1 className="text-2xl md:text-4xl text-center my-4">Here is a glimpse into the software, gadgets, and resources that are integral to my workflow and that I highly recommend.</h1>
           <p className="text-base md:text-lg text-left">
-          As a dedicated data science student, I've carefully curated a set of tools and resources to support my learning and project endeavors. Here's a glimpse into the technology stack and essentials that fuel my passion for data science:
+          As a dedicated data science student, I have carefully curated a set of tools and resources to support my learning and project endeavors. Here is a glimpse into the technology stack and essentials that fuel my passion for data science:
           </p>
           <div className="overflow-x-auto">
             <UsesTable className="w-full" />
