@@ -21,7 +21,6 @@ export default function About() {
 
         <div className="flex flex-col md:flex-row">
           <div className="p-6 md:w-1/2 md:order-last">
-            <Image src={photo} alt="me" className="w-64 h-64" />
             <Right_col />
           </div>
           <div className="md:w-1/2 p-4 md:order-first">
